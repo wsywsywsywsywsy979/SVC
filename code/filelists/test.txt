@@ -1,0 +1,4 @@
+./dataset/32k/SSB1837/SSB18370053.wav
+./dataset/32k/SSB1837/SSB18370048.wav
+./dataset/32k/SSB0273/SSB02730088.wav
+./dataset/32k/SSB0273/SSB02730055.wav
